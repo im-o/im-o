@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently study on STIMED Nusa Palapa Makassar.   
-🌱 I’m currently build mobile apps for Makassar (wait for the release, after I finish the study, coz this app is also my thesis as well).
-🔭 I'm looking for a job, if you looking for android developer, mail me please 😄
+🌱 I’m currently build mobile apps for Makassar (wait for the release, after I finish the study, coz this app is also my thesis as well).  
+🔭 I'm looking for a job, if you looking for android developer, mail me please 😄  
 ## 📫 How to reach me:
 * [Medium/Blog](https://medium.com/@rivaldy)
 * [Gist](https://gist.github.com/im-o)
