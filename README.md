@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m student - present (Insyaallah, will graduate soon).   
+🌱 I’m fresh graduate.   
 🌱 I’m currently build mobile apps for Makassar (wait for the release, after I finish the study, coz this app is also my thesis as well).  
 🔭 I'm looking for a job, if you looking for android developer, maybe you can ping me 💻
 ## 📫 How to reach me:
