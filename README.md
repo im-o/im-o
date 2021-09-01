@@ -1,4 +1,4 @@
-# Hi, im Val 👋 
+# Hi... I'm Val 👋 
 ## Android Developer | Kotlin Enthusiast 🇮🇩
 
 <!--
