@@ -1,5 +1,5 @@
 # Hi... I'm Val 👋 
-## Android Developer | Kotlin Enthusiast 🇮🇩
+## Android Developer | Flutter Enthusiast 🇮🇩
 
 <!--
 **im-o/im-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
