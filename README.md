@@ -1,5 +1,5 @@
-# Hi... I'm Val 👋 
-## Android Developer | Flutter Enthusiast 🇮🇩
+Hi... 👋 I'm Val
+---
 
 <!--
 **im-o/im-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 🌱 I’m currently build mobile apps for Makassar (wait for the release, after I finish the study, coz this app is also my thesis as well).  
 🔭 I'm looking for a job, if you looking for android developer, maybe you can ping me 💻
 -->
-## 📊 Stats :
+#### 📊 Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-o&show_icons=true&theme=radical) 
-## 🔥 Contributions:
+#### 🔥 Contributions:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=im-o&theme=neon-dark)](https://git.io/streak-stats)
 
 
-## 📫 How to reach me:
-* [Medium/Blog](https://medium.com/@rivaldy)
-* [Gist](https://gist.github.com/im-o)
-* [Telegram](http://t.me/rvl_o)
+#### 📫 How to reach me:
+- [x] medium : [rivaldy.medium.com](https://medium.com/@rivaldy)
+- [x] gits : [gist.github.com/im-o](https://gist.github.com/im-o)
+- [x] telegram : [t.me/rvl_o](http://t.me/rvl_o)
