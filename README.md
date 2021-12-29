@@ -1,30 +1,32 @@
-Hi... 👋 I'm Val
----
+<div align="center">
+<h3>Hi there 👋 I'm Val,</h3>
+<p>Android Developer | Flutter Enthusiast from Makassar, Indonesia 🇮🇩</p>
+  
+[![](https://img.shields.io/badge/-@rvl_o-blue?logo=telegram)](http://t.me/rvl_o)
+[![](https://img.shields.io/badge/-rivaldy_o-blue?logo=linkedin)](https://www.linkedin.com/in/rivaldy-o/)
+[![](https://img.shields.io/badge/-rivaldy-white?logo=stackoverflow)](https://stackoverflow.com/users/11265228/rivaldy)
+[![](https://img.shields.io/badge/-rivaldy-black?logo=medium)](https://rivaldy.medium.com/)
+[![](https://komarev.com/ghpvc/?username=im-o&color=blue)](https://github.com/im-o)
+<!-- [![](https://img.shields.io/github/stars/im-o?style=social)](https://github.com/im-o) -->
+</div>
 
-<!--
-**im-o/im-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- thropy -->
+<!-- <a href="https://im-o.github.io/">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=im-o&column=7&theme=onedark"/>
+    </p>
+</a> -->
 
-Here are some ideas to get you started:
+<!-- Contributions -->
+<a href="https://im-o.github.io/">
+    <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=im-o&theme=neon-dark"/>
+    </p>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-🌱 I’m fresh graduate.   
-🌱 I’m currently build mobile apps for Makassar (wait for the release, after I finish the study, coz this app is also my thesis as well).  
-🔭 I'm looking for a job, if you looking for android developer, maybe you can ping me 💻
--->
-#### 📊 Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-o&show_icons=true&theme=radical) 
-#### 🔥 Contributions:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=im-o&theme=neon-dark)](https://git.io/streak-stats)
-
-
-#### 📫 How to reach me:
-- [x] medium : [rivaldy.medium.com](https://medium.com/@rivaldy)
-- [x] gits : [gist.github.com/im-o](https://gist.github.com/im-o)
-- [x] telegram : [t.me/rvl_o](http://t.me/rvl_o)
+<!-- status codes -->
+<a align="center" href="https://im-o.github.io">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=im-o&show_icons=true&theme=radical" alt="my github stats" width="420"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-o&hide=scss,css,tsql,blade,%20jupyter+notebook,cmake&langs_count=6&theme=radical&layout=compact" alt="languages" height="165">
+  </p>
+</a>
