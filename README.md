@@ -1,5 +1,6 @@
 <div align="center">
-<h3>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Val,</h3>
+<h3>Hi there! I'm Val,</h3>
+<!-- <h3>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Val,</h3> -->
 <p>Android Developer | Flutter Enthusiast from Makassar, Indonesia 🇮🇩</p>
   
 [![](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](http://t.me/rvl_o)
