@@ -19,15 +19,15 @@
 </a> -->
 
 <!-- Contributions -->
-<a href="https://im-o.github.io/">
+<!-- <a href="https://im-o.github.io/">
     <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=im-o&theme=neon-dark"/>
     </p>
-</a>
+</a> -->
 
 <!-- status codes -->
-<a align="center" href="https://im-o.github.io">
+<!-- <a align="center" href="https://im-o.github.io">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=im-o&show_icons=true&theme=radical" alt="my github stats" width="420"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-o&hide=scss,css,tsql,blade,%20jupyter+notebook,cmake,html&langs_count=6&theme=radical&layout=compact" alt="languages" height="165">
   </p>
-</a>
+</a> -->
